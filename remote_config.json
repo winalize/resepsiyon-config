@@ -1,5 +1,5 @@
 {
-  "config_version": 1,
+  "config_version": 2,
   "license_room_price": 5000,
   "license_capacity_price": 750,
   "currency": "TL",
